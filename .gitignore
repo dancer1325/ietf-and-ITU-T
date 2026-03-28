@@ -1,1 +1,8 @@
 .idea
+.DS_Store
+
+# Scraper temporary files
+scraper.py
+new_files.txt
+new_ietf_files.txt
+new_itut_files.txt
