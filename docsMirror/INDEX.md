@@ -2,7 +2,7 @@
 
 Auto-generated index of IETF and ITU-T documentation.
 
-Last updated: 2026-04-06 02:41:08 UTC
+Last updated: 2026-04-13 02:51:08 UTC
 
 ## IETF RFCs
 
@@ -117,6 +117,14 @@ Last updated: 2026-04-06 02:41:08 UTC
 - [`rfc9858`](ietf/rfc9858.md)
   - **Title:** ISSN: 2070-1721                                                     NIST
   - **Source:** https://www.rfc-editor.org/rfc/rfc9858.txt
+
+- [`rfc9859`](ietf/rfc9859.md)
+  - **Title:** RFC9859
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9859.txt
+
+- [`rfc9860`](ietf/rfc9860.md)
+  - **Title:** RFC9860
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9860.txt
 
 ## ITU-T Recommendations
 
