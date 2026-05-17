@@ -2,7 +2,7 @@
 
 Auto-generated index of IETF and ITU-T documentation.
 
-Last updated: 2026-05-14 13:14:29 UTC
+Last updated: 2026-05-17 09:34:38 UTC
 
 ## IETF RFCs
 
@@ -181,6 +181,10 @@ Last updated: 2026-05-14 13:14:29 UTC
 - [`rfc9874`](ietf/rfc9874.md)
   - **Title:** RFC9874
   - **Source:** https://www.rfc-editor.org/rfc/rfc9874.txt
+
+- [`rfc9875`](ietf/rfc9875.md)
+  - **Title:** RFC9875
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9875.txt
 
 ## ITU-T Recommendations
 
