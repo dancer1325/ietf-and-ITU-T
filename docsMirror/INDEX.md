@@ -2,7 +2,7 @@
 
 Auto-generated index of IETF and ITU-T documentation.
 
-Last updated: 2026-07-06 03:40:36 UTC
+Last updated: 2026-07-20 03:18:39 UTC
 
 ## IETF RFCs
 
@@ -326,6 +326,10 @@ Last updated: 2026-07-06 03:40:36 UTC
   - **Title:** RFC9932
   - **Source:** https://www.rfc-editor.org/rfc/rfc9932.txt
 
+- [`rfc9933`](ietf/rfc9933.md)
+  - **Title:** RFC9933
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9933.txt
+
 - [`rfc9934`](ietf/rfc9934.md)
   - **Title:** RFC9934
   - **Source:** https://www.rfc-editor.org/rfc/rfc9934.txt
@@ -333,6 +337,42 @@ Last updated: 2026-07-06 03:40:36 UTC
 - [`rfc9935`](ietf/rfc9935.md)
   - **Title:** RFC9935
   - **Source:** https://www.rfc-editor.org/rfc/rfc9935.txt
+
+- [`rfc9936`](ietf/rfc9936.md)
+  - **Title:** RFC9936
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9936.txt
+
+- [`rfc9937`](ietf/rfc9937.md)
+  - **Title:** RFC9937
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9937.txt
+
+- [`rfc9938`](ietf/rfc9938.md)
+  - **Title:** RFC9938
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9938.txt
+
+- [`rfc9939`](ietf/rfc9939.md)
+  - **Title:** RFC9939
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9939.txt
+
+- [`rfc9940`](ietf/rfc9940.md)
+  - **Title:** RFC9940
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9940.txt
+
+- [`rfc9941`](ietf/rfc9941.md)
+  - **Title:** RFC9941
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9941.txt
+
+- [`rfc9942`](ietf/rfc9942.md)
+  - **Title:** RFC9942
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9942.txt
+
+- [`rfc9943`](ietf/rfc9943.md)
+  - **Title:** RFC9943
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9943.txt
+
+- [`rfc9944`](ietf/rfc9944.md)
+  - **Title:** RFC9944
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9944.txt
 
 ## ITU-T Recommendations
 
