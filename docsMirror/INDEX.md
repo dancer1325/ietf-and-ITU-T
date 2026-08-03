@@ -2,7 +2,7 @@
 
 Auto-generated index of IETF and ITU-T documentation.
 
-Last updated: 2026-07-27 03:18:00 UTC
+Last updated: 2026-08-03 02:53:38 UTC
 
 ## IETF RFCs
 
@@ -381,6 +381,30 @@ Last updated: 2026-07-27 03:18:00 UTC
 - [`rfc9946`](ietf/rfc9946.md)
   - **Title:** RFC9946
   - **Source:** https://www.rfc-editor.org/rfc/rfc9946.txt
+
+- [`rfc9947`](ietf/rfc9947.md)
+  - **Title:** RFC9947
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9947.txt
+
+- [`rfc9948`](ietf/rfc9948.md)
+  - **Title:** RFC9948
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9948.txt
+
+- [`rfc9949`](ietf/rfc9949.md)
+  - **Title:** RFC9949
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9949.txt
+
+- [`rfc9950`](ietf/rfc9950.md)
+  - **Title:** RFC9950
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9950.txt
+
+- [`rfc9951`](ietf/rfc9951.md)
+  - **Title:** RFC9951
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9951.txt
+
+- [`rfc9952`](ietf/rfc9952.md)
+  - **Title:** RFC9952
+  - **Source:** https://www.rfc-editor.org/rfc/rfc9952.txt
 
 ## ITU-T Recommendations
 
